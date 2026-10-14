@@ -1,5 +1,7 @@
 # Aperture bounds: numerical checks
 
+https://doi.org/10.5281/zenodo.23381240
+
 Code for the numerical results in "Energy Constrained Worst Case Aperture Bounds for Freely Propagated Continuous
 Variable Quantum States" (Jason Bleggi, independent researcher, 2026).
 
