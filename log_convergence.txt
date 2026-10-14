@@ -1,0 +1,48 @@
+t=0.05  continuum L_wc = 0.20494986   (lam=0.3776, mu=0.0231)
+    N= 10  truncated 0.16925383   truncated - continuum = -3.57e-02
+    N= 14  truncated 0.22980103   truncated - continuum = +2.49e-02
+    N= 18  truncated 0.21130178   truncated - continuum = +6.35e-03
+    N= 22  truncated 0.18726867   truncated - continuum = -1.77e-02
+    N= 26  truncated 0.20476224   truncated - continuum = -1.88e-04
+    N= 30  truncated 0.21678568   truncated - continuum = +1.18e-02
+    N= 40  truncated 0.19894074   truncated - continuum = -6.01e-03
+    N= 60  truncated 0.20401667   truncated - continuum = -9.33e-04
+    N= 80  truncated 0.20578865   truncated - continuum = +8.39e-04
+    N=100  truncated 0.20480850   truncated - continuum = -1.41e-04
+    N=120  truncated 0.20495239   truncated - continuum = +2.53e-06
+t=0.20  continuum L_wc = 0.29146787   (lam=0.4270, mu=0.0561)
+    N= 10  truncated 0.22661788   truncated - continuum = -6.48e-02
+    N= 14  truncated 0.31871086   truncated - continuum = +2.72e-02
+    N= 18  truncated 0.30768710   truncated - continuum = +1.62e-02
+    N= 22  truncated 0.27008523   truncated - continuum = -2.14e-02
+    N= 26  truncated 0.28362172   truncated - continuum = -7.85e-03
+    N= 30  truncated 0.30139942   truncated - continuum = +9.93e-03
+    N= 40  truncated 0.28692071   truncated - continuum = -4.55e-03
+    N= 60  truncated 0.29203276   truncated - continuum = +5.65e-04
+    N= 80  truncated 0.29195880   truncated - continuum = +4.91e-04
+    N=100  truncated 0.29128188   truncated - continuum = -1.86e-04
+    N=120  truncated 0.29152336   truncated - continuum = +5.55e-05
+t=0.50  continuum L_wc = 0.49814330   (lam=0.4048, mu=0.1173)
+    N= 10  truncated 0.43849046   truncated - continuum = -5.97e-02
+    N= 14  truncated 0.53719173   truncated - continuum = +3.90e-02
+    N= 18  truncated 0.51341231   truncated - continuum = +1.53e-02
+    N= 22  truncated 0.47619237   truncated - continuum = -2.20e-02
+    N= 26  truncated 0.48982537   truncated - continuum = -8.32e-03
+    N= 30  truncated 0.50833796   truncated - continuum = +1.02e-02
+    N= 40  truncated 0.49384981   truncated - continuum = -4.29e-03
+    N= 60  truncated 0.49893849   truncated - continuum = +7.95e-04
+    N= 80  truncated 0.49850016   truncated - continuum = +3.57e-04
+    N=100  truncated 0.49799275   truncated - continuum = -1.51e-04
+    N=120  truncated 0.49819158   truncated - continuum = +4.83e-05
+t=0.90  continuum L_wc = 0.69254909   (lam=0.3174, mu=0.1394)
+    N= 10  truncated 0.65739558   truncated - continuum = -3.52e-02
+    N= 14  truncated 0.72504945   truncated - continuum = +3.25e-02
+    N= 18  truncated 0.70139428   truncated - continuum = +8.85e-03
+    N= 22  truncated 0.67584063   truncated - continuum = -1.67e-02
+    N= 26  truncated 0.68791954   truncated - continuum = -4.63e-03
+    N= 30  truncated 0.70108728   truncated - continuum = +8.54e-03
+    N= 40  truncated 0.68907809   truncated - continuum = -3.47e-03
+    N= 60  truncated 0.69304653   truncated - continuum = +4.97e-04
+    N= 80  truncated 0.69284617   truncated - continuum = +2.97e-04
+    N=100  truncated 0.69244703   truncated - continuum = -1.02e-04
+    N=120  truncated 0.69258484   truncated - continuum = +3.58e-05

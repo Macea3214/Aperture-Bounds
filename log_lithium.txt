@@ -1,0 +1,7 @@
+A0 =   3.0 um   Gaussian family 0.725   Chebyshev 0.131   spectral worst case 0.609   (width 2.750 um)
+A0 =   4.0 um   Gaussian family 0.854   Chebyshev 0.511   spectral worst case 0.780   (width 2.750 um)
+A0 =   5.0 um   Gaussian family 0.931   Chebyshev 0.687   spectral worst case 0.861   (width 2.750 um)
+A0 =   7.0 um   Gaussian family 0.989   Chebyshev 0.840   spectral worst case 0.926   (width 2.750 um)
+A0 =  10.0 um   Gaussian family 1.000   Chebyshev 0.922   spectral worst case 0.959   (width 2.750 um)
+A0 =  15.0 um   Gaussian family 1.000   Chebyshev 0.965   spectral worst case 0.980   (width 2.750 um)
+A0 =  25.6 um   Gaussian family 1.000   Chebyshev 0.988   spectral worst case 0.992   (width 2.750 um)
